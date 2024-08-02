@@ -27,10 +27,10 @@ What the patch actually does is, when the driver finds the rebranded unsupported
 
 The patch was created at the time when the last version was:
 
- - for **Windows** GK6XPlus V8 V8.0.6.0 
+ - for **Windows** GK6XPlus V8 V8.0.6.0<br>
  更新时间：2024-06-14
  
- - for **MacOS** GK6+Mac App V1.0.0.26
+ - for **MacOS** GK6+Mac App V1.0.0.26<br>
  -更新时间：2024-06-14
 
 I assume that this patch will also work for future versions
