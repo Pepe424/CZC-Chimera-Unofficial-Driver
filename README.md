@@ -12,9 +12,11 @@ Official installer are also located in this repo for emergency cases. e.g. CZC g
 
  1. Download and Install *Official* driver as usual (e.g GK6XPlus V8 on Windows)
  2. Modify the driver to handle *Chimera* keyboard as GK68X/GK68XS Kit
+
  2.1. On Windows go into folder `C:\Program Files\GK6+\resources` and replace `app.asar` file with the patched one from this repository (unzip it first)
+ 
  2.2.  On MacOS go into folder `/Applications/GK6+.app/Contents/Resources/app/src/drivers` and replace `cor-m3-mk.js` file with the patched one from this repository 
- 3. Enjoy customising your CZC Chimera keyboard newly on Windows 11 and MacOS
+ 4. Enjoy customising your CZC Chimera keyboard newly on Windows 11 and MacOS
 	
 ## Overview
 
