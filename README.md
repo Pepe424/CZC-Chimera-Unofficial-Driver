@@ -6,7 +6,7 @@ Official [CZC Chimera](https://www.czc.cz/software-czc-gaming-chimera/priloha) /
 Official [Windows](http://www.jikedingzhi.com/downloadlist?driverID=103) / 
 Official [MacOS](http://www.jikedingzhi.com/downloadlist?driverID=90)
 
-Official installers are also located in this repo for emergency cases. e.g. CZC goes out of business
+Official installer are also located in this repo for emergency cases. e.g. CZC goes out of business
 
 ## Quick Start
 
