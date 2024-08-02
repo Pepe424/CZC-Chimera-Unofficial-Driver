@@ -18,7 +18,7 @@ Official installer are also located in this repo for emergency cases. e.g. CZC g
 	
 ## Overview
 
-What the patch actually does is, when the driver finds the rebranded unsupported keyboard from CZC, it treats it as a GK68X/GK68XS.
+What the patch actually does is, when the driver finds the rebranded unsupported keyboard from CZC, it treats it as a GK68X/GK68XS
 
  - GK68X - **?** CZC.Gaming Chimera **?**
  - GK68XS - **?** CZC.Gaming Chimera Wireless **?**
@@ -37,7 +37,7 @@ I assume that this patch will also work for future versions
 
 ## What I did?
 
-I have simply edited the `cor-m3-mk.js` file by adding if statements to rewrite *FWID* and *ModelID* if those are the ones from CZC.
+I have simply edited the `cor-m3-mk.js` file by adding if statements to rewrite *FWID* and *ModelID* if those are the ones from CZC
 
     if (FWID === 2485223445 || FWID === 2535555092) {
 	    FWID = 2535555089;
