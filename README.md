@@ -2,10 +2,8 @@
 
 Customised official GK68XPlus driver to recognise CZC Chimera rebranded [SKYLOONG GK68X/GK68XS Kit](https://epomaker.com/products/gk68xs-kit?variant=31744262176841)
 
-Official [CZC Chimera](https://www.czc.cz/software-czc-gaming-chimera/priloha)
-
-Official [Windows](http://www.jikedingzhi.com/downloadlist?driverID=103)
-
+Official [CZC Chimera](https://www.czc.cz/software-czc-gaming-chimera/priloha) / 
+Official [Windows](http://www.jikedingzhi.com/downloadlist?driverID=103) / 
 Official [MacOS](http://www.jikedingzhi.com/downloadlist?driverID=90)
 
 Official installers are also located in this repo for emergency cases. e.g. CZC goes out of business
